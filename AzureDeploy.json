@@ -199,7 +199,7 @@
         "autoUpgradeMinorVersion": true,
         "settings": {
           "fileUris": [
-            "https://github.com/NikolaLal/linux_tomcat/blob/master/tomcat.sh"
+            "https://raw.githubusercontent.com/NikolaLal/linux_tomcat/master/tomcat.sh"
           ],
           "commandToExecute": "[concat('sh tomcat.sh',' ',parameters('javaPackageName'),' ',parameters('tomcatPackageName'))]"
         }
