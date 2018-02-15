@@ -201,7 +201,7 @@
           "fileUris": [
             "https://github.com/NikolaLal/linux_tomcat/blob/master/tomcat.sh"
           ],
-          "commandToExecute": "[concat('sh java-tomcat-install.sh',' ',parameters('javaPackageName'),' ',parameters('tomcatPackageName'))]"
+          "commandToExecute": "[concat('sh tomcat.sh',' ',parameters('javaPackageName'),' ',parameters('tomcatPackageName'))]"
         }
       }
     }
