@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "javaPackageName": {
-      "value": "openjdk-7-jdk"
+      "value": "openjdk-8-jre"
     },
     "tomcatPackageName": {
       "value": "tomcat7"
